@@ -1,0 +1,7 @@
+<resources>
+    <string name="cannot_write_sdcard">无法写存储卡</string>
+    <string name="developing">开发中</string>
+    <string name="network_timeout">亲，网络有点慢哦</string>
+
+
+</resources>
